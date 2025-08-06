@@ -355,7 +355,7 @@ const hamburger = document.querySelector('.hamburger');
 
         // Function to view resume
         function viewResume() {
-            // Replace 'assets/resume.pdf' with the actual path to your resume
+            // Replace 'assets/Resume - Bokka Praveen Kumar.pdf' with the actual path to your resume
             window.open('assets/resume.pdf', '_blank');
         }
 
@@ -394,7 +394,7 @@ const hamburger = document.querySelector('.hamburger');
                     certUrl = 'assets/Java.jpg';
                     break;
                 case 'pega':
-                    certUrl = 'assets/sql-certificate.pdf';
+                    certUrl = 'assets/Pega CSA.pdf';
                     break;
                 case 'coding':
                     certUrl = 'assets/coding.pdf';
@@ -422,3 +422,4 @@ const hamburger = document.querySelector('.hamburger');
                 }
             });
         }, observerOptions);
+
