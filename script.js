@@ -356,7 +356,7 @@ const hamburger = document.querySelector('.hamburger');
         // Function to view resume
         function viewResume() {
             // Replace 'assets/Resume - Bokka Praveen Kumar.pdf' with the actual path to your resume
-            window.open('assets/resume.pdf', '_blank');
+            window.open('assets/Resume - Bokka Praveen Kumar.pdf', '_blank');
         }
 
         // Function to view work experience certificates
@@ -422,4 +422,5 @@ const hamburger = document.querySelector('.hamburger');
                 }
             });
         }, observerOptions);
+
 
